@@ -1,2 +1,2 @@
 # IWT
-This is code of a vehicle rental system.
+This is a code of a vehicle rental system.
